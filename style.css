@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;300;500;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width:400px){
+    
+    body{
+        font-family: 'Prompt', sans-serif;
+        background-color: white;
+    }
+
+    header{
+        background-color: red;
+        color: white;
+        text-align: center;
+    } header h1{
+        font-size: 52px;
+        font-weight: bold;
+    }
+
+    .sub-header{
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 14px;
+        background-color: white;
+        color: red;   
+        border: solid 1px red;
+        border-radius: 0 0 10px 10px;
+    }
+
+
+
+}
