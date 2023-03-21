@@ -1,1 +1,1 @@
-# pi-orientacao-objetos
+# Site para Amostra de Projeto Integrador - Programação Orientada a Objetos
